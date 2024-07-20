@@ -13,8 +13,7 @@ The Automated Lightning System is an Arduino-based project designed to control l
 
 ## Circuit Diagram
 
-![Circuit Diagram](link-to-your-circuit-diagram)
-![alt text](Untitled.png)
+![Circuit Diagram](Untitled.png)
 
 ## Files
 
